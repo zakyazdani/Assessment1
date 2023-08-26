@@ -9,7 +9,7 @@ const menuItems = [
   {
     id: 2,
     name: "Charts and Maps",
-    link: "/chartsandmaps",
+    link: "/",
   },
 ];
 
